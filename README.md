@@ -1,7 +1,7 @@
 # 100 Days of SwiftUI
 This repository is dedicated to documenting my progress of the Hacking With Swift's course "100 Days of SwiftUI" by Paul Hudson.
 
-If you would like to try this course yourself, you can find take it for free at: https://www.hackingwithswift.com/100/swiftui.
+If you would like to try this course yourself, you can find take it for free at: https://www.hackingwithswift.com/100/swiftui
 
 ## Current Status
 🚨 Latest update: 19/10/21
@@ -24,3 +24,28 @@ the essence of each project and find ways to fulfill that image - these mileston
 every student can shine on their own.
 
 ### 1 Final exam
+This course has a final goal that can be reached after conquering all of the aforementioned projects: an exam for all the 100 days spent. If passed,
+the student obtains a certificate - with merit if they score 80% or more and with distinction if they score 95% or more. Achieving such a feat is 
+without a doubt not easy and is definitely a great way to comemorate all of this hard work.
+
+## Projects
+### These are the projects I have completed for this course.
+Project 1 - WeSplit
+
+Challenge: Volume Converter - ChallengeDay: VolumeConverter
+
+Project 2 - GuessTheFlag
+
+Project 3 - ViewsAndModifiers
+
+Milestone Project 1-3 - RockPaperScissors
+
+Project 4 - BetterRest
+
+Project 5 - WordScramble
+
+Project 6 - Animations
+
+Milestone Project 4-6 - Multiplication Tables
+
+Project 7 - iExpense
