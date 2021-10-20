@@ -36,15 +36,15 @@ Challenge: Volume Converter - ChallengeDay: VolumeConverter
 
 Project 2 - GuessTheFlag
 
-Project 3 - ViewsAndModifiers
+Project 3 - ViewsAndModifiers: going back to projects 1 and 2.
 
-Milestone Project 1-3 - RockPaperScissors
+Milestone Project 1-3 - BrainTrain
 
 Project 4 - BetterRest
 
 Project 5 - WordScramble
 
-Project 6 - Animations
+Project 6 - Animations + going back to project GuessTheFlag.
 
 Milestone Project 4-6 - Multiplication Tables
 
